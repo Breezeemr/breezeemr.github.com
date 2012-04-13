@@ -1,0 +1,3 @@
+While working on code run
+python -m SimpleHTTPServer
+in the directory you clone the repo to. It will start a simple webserver to get you going
